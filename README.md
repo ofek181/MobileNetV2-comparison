@@ -1,5 +1,5 @@
 # MobileNetV2-comparison
-Comparing a multi label logistic regression classifier, a fully connected neural network, a convolutional neural network and MobileNetV2
+Comparing a multi label logistic regression classifier, a fully connected neural network, a convolutional neural network and MobileNetV2 on the STL10 dataset.
 ### Logistic Regression:
 ##### Test accuracy ~ 28%
 ![LR](https://user-images.githubusercontent.com/80195693/147847267-d3c2bdca-7f99-4fa6-9250-07b750392649.png)
